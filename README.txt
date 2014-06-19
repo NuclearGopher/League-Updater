@@ -1,1 +1,1 @@
-Yo, Wassup?
+Automatic League of Legends updater. Opens patcher automatically when a patch is avaliable.
